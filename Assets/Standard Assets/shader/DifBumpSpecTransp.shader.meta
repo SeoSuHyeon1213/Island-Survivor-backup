@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2522038de6513e040b63b8664bf247f8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1951
+  packageName: Coastal Gun Battery
+  packageVersion: 1.0
+  assetPath: Assets/Standard Assets/shader/DifBumpSpecTransp.shader
+  uploadId: 25532

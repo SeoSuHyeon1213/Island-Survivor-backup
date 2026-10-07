@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b6fdeb06e5164d4db675cae335e7eda
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1951
+  packageName: Coastal Gun Battery
+  packageVersion: 1.0
+  assetPath: Assets/coastal_gun_battery/Materials/barrel_01.mat
+  uploadId: 25532
